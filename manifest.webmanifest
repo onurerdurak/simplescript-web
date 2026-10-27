@@ -1,0 +1,22 @@
+{
+  "name": "SimpleScript",
+  "short_name": "SimpleScript",
+  "description": "A free screenwriting app in your browser: industry-standard screenplay format, Final Draft (.fdx) files and PDF export. No account, nothing to install.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1c1c1e",
+  "theme_color": "#1c1c1e",
+  "icons": [
+    {
+      "src": "apple-touch-icon.png",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
