@@ -17,8 +17,8 @@
 // - Requests to other sites (the feedback form, the email check) are never
 //   touched.
 
-const VERSION = "bf9ed876eaf00515";
-const FILES = ["apple-touch-icon.png","assets/CourierPrime-Bold-CsRXgBhi.ttf","assets/CourierPrime-Regular-DXo6U2x0.ttf","assets/event-DBmlLIlf.js","assets/html2canvas.esm-DXEQVQnt.js","assets/hunspell.web-CwNXaGyd.js","assets/index-DPI2DU-7.js","assets/index-RWf0r8gF.css","assets/index.es-DFQ38dy0.js","assets/pdf-gh-BrLFn.js","assets/pdf.worker.min-CxGOWlsj.js","assets/purify.es-21m173o_.js","assets/scriptmanLogo-B0GUAhiO.png","assets/spellWorker-CQ5N8DV-.js","assets/third-party-notices-DV3L-p-m.js","assets/window-DzuqH3qA.js","dict/en.aff","dict/en.dic","favicon.png","icon-512.png","index.html","manifest.webmanifest","share.jpg"];
+const VERSION = "7f64f02f76b90bc1";
+const FILES = ["apple-touch-icon.png","assets/CourierPrime-Bold-CsRXgBhi.ttf","assets/CourierPrime-Regular-DXo6U2x0.ttf","assets/event-D4cyESDH.js","assets/html2canvas.esm-DXEQVQnt.js","assets/hunspell.web-CwNXaGyd.js","assets/index-C4wGFm9z.js","assets/index-RWf0r8gF.css","assets/index.es-Bz7z7jgg.js","assets/pdf-gh-BrLFn.js","assets/pdf.worker.min-CxGOWlsj.js","assets/purify.es-21m173o_.js","assets/scriptmanLogo-B0GUAhiO.png","assets/spellWorker-CQ5N8DV-.js","assets/third-party-notices-DV3L-p-m.js","assets/window-D-F_Sbmh.js","dict/en.aff","dict/en.dic","favicon.png","icon-512.png","index.html","manifest.webmanifest","share.jpg"];
 const CACHE = "simplescript";
 const LIST_KEY = "__simplescript-files__";
 const NETWORK_WAIT_MS = 4000;
